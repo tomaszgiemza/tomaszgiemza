@@ -1,4 +1,5 @@
-### Hi there 👋
+# Wprowadzam ludzi i marki 
+# Do cyfrowego świata👋
 
 <!--
 **tomaszgiemza/tomaszgiemza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
