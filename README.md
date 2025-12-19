@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Tomasz Giemza
 
-<!--
-**tomaszgiemza/tomaszgiemza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build **websites, brands and online experiences** that are fast, clear and actually work.
 
-Here are some ideas to get you started:
+💼 Freelancer at **giemza.it**  
+🎯 Focus: branding, websites, marketing & SEO  
+📍 Poland / remote
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I do
+- 🌐 Websites & online stores (WordPress, custom builds)
+- 🎨 Brand identity & visual systems
+- ✍️ Copywriting that sells (not fills space)
+- 📈 SEO & online marketing
+- 🤖 Practical use of AI in business
+
+---
+
+## 🛠 Tools & stack
+- WordPress, Prestashop
+- HTML / CSS / JS / PHP
+- Figma, Adobe tools
+- SEO tools & analytics
+- GitHub (obviously 😉)
+
+---
+
+## 🚀 Selected projects
+- 🔗 https://giemza.it  
+
+---
+
+## 📫 Contact
+- 🌍 Website: https://giemza.it
+- ✉️ Email: tomasz@giemza.it
+
+> I like simple solutions, clean design and projects with personality.
