@@ -3,6 +3,7 @@
 I design and build **websites, brands and online experiences** that are fast, clear and actually work.
 
 💼 Freelancer at **giemza.it**  
+📝 Blogger at **giemza.nl**
 🎯 Focus: branding, websites, marketing & SEO  
 📍 Poland / remote
 
